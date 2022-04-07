@@ -49,6 +49,7 @@ Select below parameters \
 >> Click on "Submit"
 ![polygon testnet faucet](assets/polygon_testnet_faucet.png)
 >> This step will transfer anything between 0.5 to 1 Matic token to the wallet and sometime takes time based on the network and how many transactions are being executed.
+>> You can add more test token as necessary. For the session we need less than 0.5 MATIC test tokens.
 
 ## 2. Install VSCode
 
