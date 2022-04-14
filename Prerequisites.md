@@ -8,9 +8,10 @@
   - [5. Install Git](#5-install-git)
   - [6. Install nodejs](#6-install-nodejs)
 
-Prerequistes necessary for the "What is NFT" session
+Prerequistes necessary for the "What is NFT" session.
 
-Below instructions works well 
+**Works best if these instructions are done on desktop/laptop rather than mobile**
+
 
 ## 1. Metamask wallet install and configurations
 
@@ -30,6 +31,7 @@ Notice that the wallet is by Default connected to the Ethereum network. In order
 
 - [x] Select “Settings” from the drop down menu on the top right corner of your Metamask wallet.
 ![Default account](assets/default_account.png)
+- [x] Tap on "Add network"
 - [x] Select “Networks” from the menu to the left.
 ![Network](assets/metamask_networks.png)
 - [x] Connect your wallet to the Mumbai Testnet using the following parameters.
