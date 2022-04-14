@@ -6,8 +6,11 @@
   - [3. Create a account in Moralis and Mortalis server](#3-create-a-account-in-moralis-and-mortalis-server)
   - [4. Access Remix online solidity IDE](#4-access-remix-online-solidity-ide)
   - [5. Install Git](#5-install-git)
+  - [6. Install nodejs](#6-install-nodejs)
 
 Prerequistes necessary for the "What is NFT" session
+
+Below instructions works well 
 
 ## 1. Metamask wallet install and configurations
 
@@ -77,3 +80,14 @@ Download and Install VSCode from [VSCode Download page](https://code.visualstudi
 ## 5. Install Git
 
 - [x] Install Git using the instructions provided [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+
+## 6. Install nodejs
+
+- [x] Install nodejs using the [link](https://nodejs.org/en/download/)
+- [x] Follow through all the on screen instructions.
+- [x] Test if nodejs is installed properly.
+  - [x] open powershell or command prompt and run below commands
+  - [x] node --version
+  - [x] npm --version
+   ![Nodejs test](assets/nodejs_test.png)
