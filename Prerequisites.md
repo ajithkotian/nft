@@ -31,9 +31,10 @@ Notice that the wallet is by Default connected to the Ethereum network. In order
 
 - [x] Select “Settings” from the drop down menu on the top right corner of your Metamask wallet.
 ![Default account](assets/default_account.png)
-- [x] Tap on "Add network"
 - [x] Select “Networks” from the menu to the left.
 ![Network](assets/metamask_networks.png)
+- [x] Select "Add Network"
+![Add Network](assets/Metamask_Networks_screenshot.png)
 - [x] Connect your wallet to the Mumbai Testnet using the following parameters.
 
 > **Mumbai Testnet** \
