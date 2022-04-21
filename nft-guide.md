@@ -25,13 +25,14 @@ This session will be done on the **testnet** - so we do not need actual crypto c
 - Connect to your metamask wallet as shown in the below screenshot 
   ![Connect to your wallet](assets/session_opensea_memask_connect.png)
   - Click on the metamaks wallet 
-  - Metamsk extension will request your password if not logged in already 
+  - Metamask extension will request your password if not logged in already 
   - Select "Polygon Testnet" or "Mumbai Testnet" (name that you created in the ["Add Networks" section](Prerequisites.md#1-metamask-wallet-install-and-configurations) ) in the "Networks" drop down.
 - This will open up opensea testnet home page.
   
 ## Mint one NFT in opensea
 
-For the purpose of this session, lets mint a beautiful spring image attached under assets folder [spring_bangalore.jpg](assets/spring_bangalore.jpg). But feel free to pick digitl art, picture or digital content of your choice.
+For the purpose of this session, lets mint a beautiful spring image attached under assets folder [spring_bangalore.jpg](assets/spring_bangalore.jpg). But feel free to pick digital art, picture or digital content of your choice.
+
     ![Bangalore spring](assets/spring_bangalore.jpg)
 
 ### Mint one NFT
@@ -42,7 +43,7 @@ For the purpose of this session, lets mint a beautiful spring image attached und
     - This will open up "Create new Item" page as shown below.
     ![create new NFT](/assets/session_opensea_create_new_nft.png)
     - Fill in all the details as you see on the screen
-      - uplod the digital art/content of your choice under "Image, Video, Audio, or 3D Model*". In this case [spring_bangalore.jpg](assets/spring_bangalore.jpg)
+      - upload the digital art/content of your choice under "Image, Video, Audio, or 3D Model*". In this case [spring_bangalore.jpg](assets/spring_bangalore.jpg)
       - give it a "Name"
       - Optional: Prvovide a "External link" if you have any which describes the art. 
       - Provide a "Description"
@@ -157,11 +158,11 @@ We will be doing below steps in our next session below.
   Click on `Next` and `Connect` in the metamask wallet.
   This will update the `Account` to metamask wallet account address.
   Click on `Deploy`.
-  ![](/assets/session_remix_deploy.png)
+  ![](/assets/session_remix_deploy.png) <br>
   Confirm the gas fee <br>
-  ![gas fee](/assets/session_remix_deploy_confirm_gas.png)
+  ![gas fee](/assets/session_remix_deploy_confirm_gas.png) <br>
   The contract will be deployed in the Polygon Mumbai testnet blockchain. Copy the contract address by clicking on the copy icon next to newly deployed contract in the left panel.
-  ![contract address](/assets/session_remix_deploy_contract.png)
+  ![contract address](/assets/session_remix_deploy_contract.png) <br>
   In this case the Contract address is `0xA653b22321B6771500346E2c1B0aD56852348aBb`
 
 
