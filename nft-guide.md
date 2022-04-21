@@ -16,7 +16,7 @@
 
 Please follow the steps provided in [Prerequisites](Prerequisites.md) to setup the necessary softwares for the session.
 
-This session will be done on the testnet - so we do not need actual crypto currencies. A way to get testnet polygon network MATIC token is explained in the [Create metamask wallet section](/Prerequisites.md#1-metamask-wallet-install-and-configurations)
+This session will be done on the **testnet** - so we do not need actual crypto currencies. A way to get testnet polygon network MATIC token is explained in the [Create metamask wallet section](/Prerequisites.md#1-metamask-wallet-install-and-configurations)
 
 ## Connect wallet to testnet opensea
 - Open https://testnets.opensea.io/
@@ -24,9 +24,9 @@ This session will be done on the testnet - so we do not need actual crypto curre
  ![Connect to Metamask](assets/session_opensea_welcome.png)
 - Connect to your metamask wallet as shown in the below screenshot 
   ![Connect to your wallet](assets/session_opensea_memask_connect.png)
-  - 1. Click on the metamaks wallet 
-  - 2. Metamsk extension will request your password if not logged in already 
-  - 3. Select "Polygon Testnet" or "Mumbai Testnet" (name that you created in the ["Add Networks" section](Prerequisites.md#1-metamask-wallet-install-and-configurations) ) in the "Networks" drop down.
+  - Click on the metamaks wallet 
+  - Metamsk extension will request your password if not logged in already 
+  - Select "Polygon Testnet" or "Mumbai Testnet" (name that you created in the ["Add Networks" section](Prerequisites.md#1-metamask-wallet-install-and-configurations) ) in the "Networks" drop down.
 - This will open up opensea testnet home page.
   
 ## Mint one NFT in opensea
@@ -101,9 +101,9 @@ We will be doing below steps in our next session below.
   // xAPIKey available here: https://admin.moralis.io/web3Api
   const apiKey = "<INSERT_API_KEY>";
 ```
-    - Fill these details from the Moralis server which was created as part of the pre-requisites [steps here](/Prerequisites.md#3-create-a-account-in-moralis-and-mortalis-server)
+   - Fill these details from the Moralis server which was created as part of the pre-requisites [steps here](/Prerequisites.md#3-create-a-account-in-moralis-and-mortalis-server)
 
-    - Go to https://admin.moralis.io/servers 
+  - Go to https://admin.moralis.io/servers 
   - Details can be found here 
    ![Moralis server details](/assets/session_moralis_server_details.png)
     - Copy these details to `{serverUrl, appId,  masterKey}` in the code snippet mentioned above.
