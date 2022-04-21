@@ -3,7 +3,7 @@
 - [Table of Content](#table-of-content)
   - [Pre-requisites](#pre-requisites)
   - [Connect wallet to testnet opensea](#connect-wallet-to-testnet-opensea)
-  - [Mint one NFT in opensea](#mint-one-nft-in-opensea)
+  - [Mint one NFT in Testnet opensea](#mint-one-nft-in-testnet-opensea)
     - [Mint one NFT](#mint-one-nft)
     - [List your digital art for sale](#list-your-digital-art-for-sale)
   - [Mint 10 Digital art collection.](#mint-10-digital-art-collection)
@@ -29,11 +29,11 @@ This session will be done on the **testnet** - so we do not need actual crypto c
   - Select "Polygon Testnet" or "Mumbai Testnet" (name that you created in the ["Add Networks" section](Prerequisites.md#1-metamask-wallet-install-and-configurations) ) in the "Networks" drop down.
 - This will open up opensea testnet home page.
   
-## Mint one NFT in opensea
+## Mint one NFT in Testnet opensea
 
 For the purpose of this session, lets mint a beautiful spring image attached under assets folder [spring_bangalore.jpg](assets/spring_bangalore.jpg). But feel free to pick digital art, picture or digital content of your choice.
 
-    ![Bangalore spring](assets/spring_bangalore.jpg)
+  ![Bangalore spring](assets/spring_bangalore.jpg)
 
 ### Mint one NFT
 - Click on "Create". Below screenshot is how it looks like at the time of writing this, but layout may change.
@@ -161,6 +161,7 @@ We will be doing below steps in our next session below.
   ![](/assets/session_remix_deploy.png) <br>
   Confirm the gas fee <br>
   ![gas fee](/assets/session_remix_deploy_confirm_gas.png) <br>
+
   The contract will be deployed in the Polygon Mumbai testnet blockchain. Copy the contract address by clicking on the copy icon next to newly deployed contract in the left panel.
   ![contract address](/assets/session_remix_deploy_contract.png) <br>
   In this case the Contract address is `0xA653b22321B6771500346E2c1B0aD56852348aBb`
