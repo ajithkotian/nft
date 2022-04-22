@@ -93,7 +93,7 @@ const startCreating = async () => {
 
   console.log();
   console.log("#########################################");
-  console.log("Meet the Survivors");
+  console.log("Meet the Cat");
   console.log("#########################################");
   console.log();
 };
